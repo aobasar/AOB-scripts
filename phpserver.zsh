@@ -1,6 +1,6 @@
 #!/usr/bin/zsh
 
-# Get the IP address of the current network interface that starts with "172"
+# Get the IP address of the current network interface that starts with "172" 
 # This command uses ifconfig to get the IP addresses of all network interfaces,
 # and then filters the output to only show the IP address of the interface that starts with "172".
 # The IP address is then saved to a temporary file.
